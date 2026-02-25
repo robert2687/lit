@@ -109,7 +109,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "11.1.2",
-    "rollup": "^3.27.2",
+    "rollup": "^2.79.2",
     "source-map": "^0.7.4",
     "uvu": "^0.5.6"
   },
